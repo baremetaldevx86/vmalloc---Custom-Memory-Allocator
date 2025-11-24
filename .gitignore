@@ -1,0 +1,16 @@
+cat > .gitignore <<EOF
+# Compiled objects
+*.o
+*.a
+*.so
+*.out
+*.exe
+
+# Binaries
+testprog
+
+# Editor/OS files
+*.swp
+.DS_Store
+EOF
+
