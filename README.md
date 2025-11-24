@@ -1,4 +1,4 @@
-# 🧠 vmalloc — A Simple Custom Memory Allocator (C)
+# vmalloc — A Simple Custom Memory Allocator (C)
 
 `vmalloc` is a lightweight, educational memory allocator implemented in C.  
 It uses `sbrk()` to grow the heap, maintains a doubly linked list of blocks,  
